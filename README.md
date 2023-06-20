@@ -73,4 +73,18 @@ Defining KPIs >Power BI >Insights and Actions
 Learnt about Gender balance in the executive suite.
 Calculating Measures >Defining KPIs >Power BI Dashboard >Insight and Actions
 
-Final result
+Final Result
+1-CALL CENTER TRENDS
+![call center dashboard img](https://github.com/parasf001/PwC-PowerBI-in-Data-Analytics-Virtual-Case-Experience/assets/134538885/ffa2a751-0fd8-455f-b60e-814efb504c77)
+
+2- Customer Retention
+![customer churn ](https://github.com/parasf001/PwC-PowerBI-in-Data-Analytics-Virtual-Case-Experience/assets/134538885/9307189a-f019-4b7f-98e5-fba6bb59cae2)
+
+3-Diversity & Inclusion
+![diversity 1 img](https://github.com/parasf001/PwC-PowerBI-in-Data-Analytics-Virtual-Case-Experience/assets/134538885/5a40b7d7-1dd1-4a25-a98e-cd6a86a9e889)
+![diversity 2 img](https://github.com/parasf001/PwC-PowerBI-in-Data-Analytics-Virtual-Case-Experience/assets/134538885/89fe3809-8e53-4f91-92f4-3c00383d7042)
+
+
+
+
+
